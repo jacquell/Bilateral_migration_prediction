@@ -3,10 +3,10 @@ for LMU WS2020 Machine Learning for Economics Exam project
 
 ## Quick "What is where"
 
-Main model code: 
+Main model code 
 <br/>/Exam_bilateral_migration_predictions_deep_learning_v5.ipynb
 
-Three model variants explored:
+Three model variants explored
 <br/>(1) /variant_use_lag_migration_as_feature.ipynb
 <br/>(2) /variant_filtered_and_engineered_features.ipynb 
 <br/>(3) /variant_randomised_train_test_split.ipynb
