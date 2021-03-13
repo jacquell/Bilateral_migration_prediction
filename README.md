@@ -20,5 +20,8 @@ Data file
 All exhibits
 <br/>under ./exhibits/
 
+Packages used in all models
+<br/>/requirement.txt
+
 An accompanying note
 <br/>/Notes to exam project_bilateral migration prediction.pdf
