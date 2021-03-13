@@ -1,7 +1,7 @@
 # Bilateral_migration_prediction
 for LMU WS2020 Machine Learning for Economics Exam project
 
-## Quick "What is where"
+## Quick tour of the repository
 
 Main model code 
 <br/>/Exam_bilateral_migration_predictions_deep_learning_v5.ipynb
